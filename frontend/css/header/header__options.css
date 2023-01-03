@@ -1,0 +1,16 @@
+.header__options {
+  display: inline-block;
+  position: absolute;
+  right: 10px;
+}
+
+.header__options button{
+  display: inline-block;
+  padding: 5px;
+  border: 0px none;
+  background-color: lightskyblue;
+}
+  
+.header__options button:hover{
+  color: white;
+}

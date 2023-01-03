@@ -1,0 +1,21 @@
+.footer {
+  width: 100%;
+  background-color: black;
+  position: fixed;
+  bottom: 0px;
+  display: flex;
+  justify-content: center;
+}
+
+.footer__items {
+  color: white;
+  padding: 5px;
+}
+
+.footer__github-link:hover {
+  color: orange;
+}
+
+.footer__github-link {
+  text-decoration: none;
+}
